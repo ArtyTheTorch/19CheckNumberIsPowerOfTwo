@@ -1,0 +1,10 @@
+C:\Users\gu425d\AppData\Local\Temporary Projects\19CheckNumberIsPowerOfTwo\bin\Debug\19CheckNumberIsPowerOfTwo.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\19CheckNumberIsPowerOfTwo\bin\Debug\19CheckNumberIsPowerOfTwo.pdb
+C:\Users\gu425d\AppData\Local\Temporary Projects\19CheckNumberIsPowerOfTwo\obj\x86\Debug\19CheckNumberIsPowerOfTwo.exe
+C:\Users\gu425d\AppData\Local\Temporary Projects\19CheckNumberIsPowerOfTwo\obj\x86\Debug\19CheckNumberIsPowerOfTwo.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\19CheckNumberIsPowerOfTwo\19CheckNumberIsPowerOfTwo\obj\x86\Debug\19CheckNumberIsPowerOfTwo.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\19CheckNumberIsPowerOfTwo\19CheckNumberIsPowerOfTwo\obj\x86\Debug\19CheckNumberIsPowerOfTwo.pdb
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\19CheckNumberIsPowerOfTwo\19CheckNumberIsPowerOfTwo\bin\Debug\19CheckNumberIsPowerOfTwo.exe
+C:\Users\gu425d\Desktop\Other\C# Practice\Top 30 Programing Interview Questions\19CheckNumberIsPowerOfTwo\19CheckNumberIsPowerOfTwo\bin\Debug\19CheckNumberIsPowerOfTwo.pdb
+C:\Users\GARRET\Documents\GitHub\19CheckNumberIsPowerOfTwo\19CheckNumberIsPowerOfTwo\obj\x86\Debug\19CheckNumberIsPowerOfTwo.exe
+C:\Users\GARRET\Documents\GitHub\19CheckNumberIsPowerOfTwo\19CheckNumberIsPowerOfTwo\obj\x86\Debug\19CheckNumberIsPowerOfTwo.pdb
